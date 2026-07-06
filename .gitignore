@@ -26,3 +26,28 @@ replay_pid*
 # Gradle
 .gradle/
 build/
+
+# Gradle
+.gradle/
+build/
+
+# Java
+*.class
+
+# IDEs
+.idea/
+.vscode/
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Launcher data
+minecraft/
+runtime/
+
+# Temporary
+tmp/
